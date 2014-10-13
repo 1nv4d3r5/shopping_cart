@@ -1,0 +1,38 @@
+
+.well {
+    margin: 1em 2em;
+}
+
+.logo {
+    font-family: 'Pinyon Script', cursive;
+    font-size: 2.2em;
+}
+.carousel {
+	margin-bottom: 1em;
+}
+h2, p, li {
+    font-family: 'Quicksand', sans-serif;
+}
+
+footer {
+    border-top: 1px dotted #000;
+    padding-top: 1.2em;
+}
+
+#carousel-example-generic{
+	
+}
+.content {
+	height: 30em;
+	overflow: scroll;
+}
+
+.shopping-cart-cost {
+        text-align: right;
+        padding-right: 2em;
+        list-style-type: none;
+}
+
+.purchase-button {
+    margin: 1em 2em 2em 1em;
+}
